@@ -1,0 +1,61 @@
+#wrapper {
+	 width: 960px;
+	 margin-right: auto;
+	 margin-left: auto;
+}
+
+header {
+	   padding: 10px;
+	   padding-bottom: 10px;
+	   height: 70px;
+}
+
+header img {
+	   float:left;
+}
+
+header ul {
+	    list-style: none;
+		float: right;
+}
+
+header ul li {
+	  display: inline;
+	  margin-left: 20px;
+}
+
+header a {
+	color: #777;
+	text-decoration: none;
+	font-family: arial, sans-serif;
+}
+
+header a:hover {
+     color: #222; 
+}
+
+section {
+	  float: left;
+      padding: 15px;
+	  width: 620px;
+	  height: 300px;
+}
+
+/*Start section classes*/
+.index-post {
+	   
+}
+
+aside {
+	float: right;
+	width: 280px;
+	padding: 15px;
+	height: 300px;
+}
+
+footer {
+	    clear: both;
+		background: orange;
+		height: 50px;
+}
+
