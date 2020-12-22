@@ -1,0 +1,13 @@
+CSS3 is the latest standard for CSS.
+
+CSS3 is completely backwards-compatible with earlier CSS versions.
+
+Some of the most significant new features are:
+
+Border radius - allows us to create rounded corners for elements.
+
+Border images - allows us to specify an image as the border around an element.
+
+Multiple backgrounds - applies multiple backgrounds to elements.
+
+Animations and effects, and much more!
