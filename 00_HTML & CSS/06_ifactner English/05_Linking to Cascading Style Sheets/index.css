@@ -1,0 +1,18 @@
+*
+{
+	margin: 0px;
+    padidng: 0px;
+}
+
+body
+{
+	background-color: grey;
+	text-align: center;
+}
+
+#page_centre
+{
+  width: 960; /* the width of our webpage is 960, left-side: 240px; */
+  text-align: left;
+  background-color: white;
+}
