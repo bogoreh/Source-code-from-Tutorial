@@ -1,0 +1,58 @@
+*
+{
+	margin: 0px;
+    padidng: 0px;
+}
+
+body
+{
+	background-color: grey;
+	text-align: center;
+}
+
+#page_centre
+{
+  width: 960px; /* the width of our webpage is 960, left-side: 240px; */
+  text-align: left;
+  background-color: white;
+  margin:10px auto;
+}
+
+#page_header
+{
+	background-color:blue;
+	color:white;
+}
+
+#logo
+{
+   display: inline;
+   padding: 5px 2px 10px 10px; /* top right bottom left */
+   vertical-align: middle;
+}
+
+#tag_line
+{
+  display: inline;
+  vertical-align: middle;
+}
+
+#page_nav
+{
+  background-color: black;
+}
+
+#page_nav ul
+{
+  list-style-type: none;
+}
+
+#page_nav a {
+  color: white;
+}
+
+#page_nav li
+{
+  display: inline;
+  padding: 10px;
+}
