@@ -1,0 +1,55 @@
+<!DOCTYPE html><!-- Uppercase or lowercase -->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+<style type="text/css">
+#Newcanvas {
+	background-color: grey;
+	border: 10px solid green;
+	margin: 10px;	
+}
+
+#Newcanvas2 {
+      background-color: green;
+      border: 10px solid grey;
+      margin: 10px;     
+}
+
+</style>
+</head>
+<body>
+
+  <canvas id="Newcanvas" width="400px" height="400px">
+          Please get a new browser.
+      </canvas>
+
+
+   <canvas id="Newcanvas2" width="400px" height="400px">
+          Please get a new browser.
+      </canvas>
+
+      <script type="text/javascript">
+      var can=document.getElementById("Newcanvas");
+      var ctx=can.getContext("2d");
+      var Jgrd=ctx.createLinearGradient(0,0,400,400);
+      Jgrd.addColorStop(0, "Red");
+      Jgrd.addColorStop(1, "Yellow");
+      ctx.fillStyle=Jgrd;
+      ctx.fillRect(0,0,400,400);
+
+      var can2=document.getElementById("Newcanvas2");
+      var ctx2=can2.getContext("2d");
+      var Jgrd2=ctx2.createRadialGradient(100,100,1,150,150,160);
+      //createRadialGradient(x,y,r,x1,y1,r1)
+      Jgrd2.addColorStop(0.2, "Red");
+      Jgrd2.addColorStop(1, "Yellow");
+      ctx2.fillStyle=Jgrd2;
+      ctx2.fillRect(0,0,400,400);
+
+      </script>
+
+</body>
+</html> 
+
