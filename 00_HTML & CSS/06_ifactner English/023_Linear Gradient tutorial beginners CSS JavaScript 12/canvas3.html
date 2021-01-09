@@ -1,0 +1,43 @@
+<!DOCTYPE html><!-- Uppercase or lowercase -->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+<style type="text/css">
+#Newcanvas {
+	background-color: grey;
+	border: 10px solid green;
+	margin: 10px;	
+}
+</style>
+</head>
+<body>
+
+     <canvas id="Newcanvas" width="400px" height="400px">
+          Please get a new browser.
+      </canvas>
+
+      <script type="text/javascript">
+      var can=document.getElementById("Newcanvas");
+      var ctx=can.getContext("2d");
+      //createLinearGradient(x,y,xl,y1);
+      //addColorStop(0.5,"first_color");
+      //addColorStop(1,"second_color");
+      //fillStyle or strokeStyle
+      var Jgrd=ctx.createLinearGradient(0,0,400,400);
+      //Jgrd.addColorStop(0, "Red");
+      //Jgrd.addColorStop(0, "Red");
+      //Jgrd.addColorStop(0.5, "Red");
+      //Jgrd.addColorStop(1, "Yellow");
+      //Jgrd.addColorStop(0.5, "Yellow");
+      Jgrd.addColorStop(1, "Yellow");
+      //Gradient Created , now fill it.
+      ctx.fillStyle=Jgrd;
+      ctx.fillRect(0,0,400,400);
+
+      </script>
+
+</body>
+</html> 
+
