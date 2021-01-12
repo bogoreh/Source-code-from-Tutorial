@@ -1,0 +1,18 @@
+SVG: Scalable Vector Graphics
+Language to describe 2d using XML
+Smaller in size.
+Don't lose quality we zoom in.
+
+3 graphics:
+1. vector graphics shapes
+2. images
+3. Curves
+
+SVG: dynamic and Interactive - Games
+
+.svg and .svgz
+
+Inline SVG (write code)
+object tag to embed, iframe, img src="abc.svg"
+background images using css 
+
