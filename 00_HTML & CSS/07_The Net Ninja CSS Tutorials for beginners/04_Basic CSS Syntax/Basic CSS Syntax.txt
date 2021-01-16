@@ -1,0 +1,16 @@
+	CSS is a collection of Rules
+- Each rule targets a specific tag or element on a HTML document
+
+- Rule which targets(bartilmaameedyada) all'p' tags on a page
+- Rule which targets all tags with an #id
+- Rule which targets all 'a' tags in the nav
+
+	Rules Come in 2 Parts
+
+All CSS rules are mode of two components(qaybaha):
+selector Declaration
+
+
+
+ 
+
