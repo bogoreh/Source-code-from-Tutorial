@@ -1,0 +1,19 @@
+	3 ways to add CSS
+- Inline styling - YUK
+- Embedded style sheets - 
+- External style sheets 
+
+	Inline styling
+- Time consuming(consommant) to style multiple elements
+- Tricky(Rusée) to manage and update
+- Messy(kharriban)
+
+	Embedded Styling
+- Time consuming to apply global styles
+- Hard to maintain(maintenir) and update
+
+- Good for making specific page styles
+
+
+
+
