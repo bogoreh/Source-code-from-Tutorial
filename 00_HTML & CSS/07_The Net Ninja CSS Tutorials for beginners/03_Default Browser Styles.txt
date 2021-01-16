@@ -1,0 +1,5 @@
+	Browser Have Style!
+- All browsers apply basic styling to HTML:
+     - Margin, Padding, Font size, Underling links etc
+- Browsers apply their own default styles
+
