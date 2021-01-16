@@ -1,0 +1,10 @@
+What You Need to Know
+- A little bit of HTML
+
+What We'll Cover
+- What CSS is
+- CSS syntax
+- Element, class and ID Selectors
+- Formatting text
+- The box model
+- Put it all together
