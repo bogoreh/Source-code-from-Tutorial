@@ -1,0 +1,24 @@
+/*****
+Author: Abdibogoreh;
+Date: 03/02/2019;
+Version: 3.3.1;
+******/
+
+
+/* Style all P tags */
+
+p {
+	font-size: 18px;
+	color: blue;
+}
+
+#header p {
+	 font-size: 24px;
+}
+
+/* Style all header tags */
+h1 {
+	font-size: 44px;
+}
+
+/* Multiple Comments */
