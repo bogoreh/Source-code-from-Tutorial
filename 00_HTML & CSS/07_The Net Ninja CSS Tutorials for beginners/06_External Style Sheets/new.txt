@@ -1,0 +1,9 @@
+	Be Efficient(Être efficace)
+
+Time Consuming
+- Inline styling
+- Embedded style sheets
+
+Quicker(Plus rapide) and Easier
+- External style sheets
+
