@@ -1,0 +1,31 @@
+/*****
+Author: Abdibogoreh;
+Date: 03/02/2019;
+Version: 3.3.1;
+******/
+
+
+/* Style all P tags */
+
+p {
+	font-size: 18px;
+	color: blue;
+}
+
+a {
+	 text-decoration: underline;
+	 color: blue;
+}
+
+span {
+	 text-transform: uppercase;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+div {
+	  width: 100%;
+	  background-color: grey;
+}
