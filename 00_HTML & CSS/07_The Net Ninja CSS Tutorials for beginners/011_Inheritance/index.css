@@ -1,0 +1,22 @@
+/*****
+Author: Abdibogoreh;
+Date: 03/02/2019;
+Version: 3.3.1;
+******/
+
+body {
+	  color: red;
+}
+
+div {
+	 color: blue;
+}
+
+p {
+	color: green;
+}
+
+a {
+	 color: blue;
+	 text-decoration: underline;
+}
