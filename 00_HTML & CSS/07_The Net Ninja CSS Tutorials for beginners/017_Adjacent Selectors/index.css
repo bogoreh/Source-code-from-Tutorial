@@ -1,0 +1,9 @@
+/******
+Author: Abdibogoreh;
+Date: 03/02/2019;
+Version: 3.3.1;
+******/
+
+#all-articles h2 + p{
+	color: green;
+}
