@@ -1,0 +1,15 @@
+/******
+Author: Abdibogoreh;
+Date: 03/02/2019;
+Version: 3.3.1;
+******/
+
+/*
+#main-content p{
+	color: red;
+}
+*/
+
+#main-content #sub-content p{
+	color: blue;
+}
