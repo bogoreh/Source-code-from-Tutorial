@@ -1,0 +1,7 @@
+	Pseudo Classes?
+
+- Special keywords that go after selectors
+- They can be used to target:
+   - Special behavioural(comportemental) states
+   - Advanced structural elements
+
