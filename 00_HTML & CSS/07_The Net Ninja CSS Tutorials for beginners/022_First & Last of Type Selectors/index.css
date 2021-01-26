@@ -1,0 +1,15 @@
+/****
+Author: Abdoulrazak Omar bogoreh
+Version: 3.3.1;
+Date: 03/01/2019
+**/
+
+article p:first-of-type
+{
+	font-weight: bold;
+}
+
+article p:last-of-type
+{
+	color: red;
+}
