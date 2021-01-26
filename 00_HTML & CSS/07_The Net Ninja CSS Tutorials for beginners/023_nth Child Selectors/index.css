@@ -1,0 +1,33 @@
+/****
+Author: Abdoulrazak Omar bogoreh
+Version: 3.3.1;
+Date: 03/01/2019
+**/
+
+li:nth-child(1), li:nth-child(7)
+{
+	font-weight: bold;
+}
+
+/*
+li:nth-child(even){
+	background-color: grey;
+}
+
+li:nth-child(odd)
+{
+	background: pink;
+}
+*/
+
+/*
+li:nth-child(2n + 1)
+{
+	color: green;
+}
+*/
+
+li:nth-child(3n + 1)
+{
+	color: green;
+}
