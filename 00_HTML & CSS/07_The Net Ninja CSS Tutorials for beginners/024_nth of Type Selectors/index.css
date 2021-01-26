@@ -1,0 +1,24 @@
+/****
+Author: Abdoulrazak Omar bogoreh
+Version: 3.3.1;
+Date: 03/01/2019
+**/
+
+article:nth-of-type(2n + 1)
+{
+	background: grey;
+}
+
+/*
+article:nth-of-type(odd)
+{
+	background: grey;
+}
+*/
+
+/*
+article:nth-child(2)
+{
+	background: grey;
+}
+*/
