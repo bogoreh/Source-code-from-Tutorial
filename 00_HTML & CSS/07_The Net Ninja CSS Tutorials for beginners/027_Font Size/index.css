@@ -1,0 +1,33 @@
+/****
+Author: Abdoulrazak Omar bogoreh
+Version: 3.3.1;
+Date: 03/01/2019
+**/
+
+article {
+	font-size: 16px;
+}
+
+article h2
+{
+  font-size: 4em;
+}
+
+article p{
+	font-size: 500%;
+}
+
+/*
+Relative measurements are great for when you're working with responsive designs 
+*/
+
+
+/*
+h1{
+	font-size: 48px;
+}
+
+h2{
+   font-size: 30px;
+}
+*/
