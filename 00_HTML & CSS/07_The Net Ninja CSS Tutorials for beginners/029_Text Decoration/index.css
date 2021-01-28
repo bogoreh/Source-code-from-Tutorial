@@ -1,0 +1,34 @@
+/****
+Author: Abdoulrazak Omar bogoreh
+Version: 3.3.1;
+Date: 03/01/2019
+**/
+
+/*
+article {
+	 text-decoration: overline;
+}
+*/
+
+/*
+a{
+	/*text-decoration: none;
+}
+*/
+
+/*
+a
+{
+	text-decoration: line-through;
+}
+*/
+
+/*
+a {
+   text-decoration: underline;
+}
+*/
+
+a {
+	 text-decoration: inherit;
+}
