@@ -1,0 +1,23 @@
+/****
+Author: Abdoulrazak Omar bogoreh
+Version: 3.3.1;
+Date: 03/01/2019
+**/
+
+#header p{
+	 text-transform: capitalize;
+}
+
+/*
+body > p{
+	 text-transform: uppercase;
+}
+*/
+
+body{
+	 text-transform: uppercase;
+}
+
+body > p{
+	 text-transform: none;
+}
