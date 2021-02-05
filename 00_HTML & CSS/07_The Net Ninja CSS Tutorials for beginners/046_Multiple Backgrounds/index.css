@@ -1,0 +1,14 @@
+/*********
+Author: Abdibogoreh
+Date: 04/02/2019
+**********/
+
+.banner{
+	  background-color: #606060;
+	  width: 100%;
+	  height: 300px;
+	  background: url(images2.png), url(images2.png);
+	  background-repeat: no-repeat;
+	  background-position: center, top left;
+      background-size: 300px, 100%;
+	}
