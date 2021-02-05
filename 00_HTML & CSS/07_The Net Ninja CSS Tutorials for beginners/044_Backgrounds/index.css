@@ -1,0 +1,14 @@
+/*********
+Author: Abdibogoreh
+Date: 04/02/2019
+**********/
+
+.static-width{
+	  width: 300px;
+	  height: 300px;
+	  background-color: #686868;
+	  background-image: url('images2.png');
+	  background-repeat: no-repeat;
+	  background-position: center;
+	  background-size: 280px;
+}
