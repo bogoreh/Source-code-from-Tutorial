@@ -1,0 +1,29 @@
+/*********
+Author: Abdibogoreh
+Date: 04/02/2019
+**********/
+
+#main-content div{
+	 background-color: #ccc;
+	 margin: 0 0 20px 0;
+}
+
+.static-width{
+	 width: 300px;
+	 height: 100px;
+	 /** tutorial 43 Rounded Corners  ****/
+	 border-radius: 15px;
+}
+
+.percentage-width {
+	  width: 70%;
+	  height: 50px;
+	  /*border-radius: 5px 10px 20px 18px;*/
+	  border-radius: 15px 20px;
+}
+
+.inline-block {
+	 width: 100px;
+	 height: 100px;
+	 border-radius: 50px;
+}
