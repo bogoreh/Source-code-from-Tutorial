@@ -1,0 +1,24 @@
+/*********
+Author: Abdibogoreh
+Date: 04/02/2019
+**********/
+
+#main-content div{
+	 background-color: #ccc;
+	 margin: 0 0 20px 0;
+}
+
+.static-width{
+	 width: 300px;
+	 height: 100px;
+}
+
+.percentage-width {
+	  width: 70%;
+	  height: 50px;
+}
+
+.inline-block {
+	  width: 40%;
+	  display: inline-block;
+}
