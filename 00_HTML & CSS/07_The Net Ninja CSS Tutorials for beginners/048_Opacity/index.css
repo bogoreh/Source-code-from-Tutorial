@@ -1,0 +1,40 @@
+/*********
+Author: Abdibogoreh
+Date: 04/02/2019
+**********/
+
+#circle{
+	  width: 400px;
+	  height: 400px;
+	  position: absolute;
+	  background: rgb(200,200,100);
+	  border-radius: 200px;
+	  top: 50px;
+	  left: 50px;
+	  opacity: 1;
+	  text-align: center;
+}
+
+#circle-2{
+	  width: 400px;
+	  height: 400px;
+	  position: absolute;
+	  background: rgb(200,100,200);
+	  border-radius: 200px;
+	  top: 250px;
+	  left: 150px;
+	  opacity: 0.3;
+	  text-align: center;
+}
+
+#circle-3{
+	    width: 400px;
+	    height: 400px;
+	    position: absolute;
+	    background: rgb(100,200,200,0.1);
+	    border-radius: 200px;
+	    top: 50px;
+	    left: 258px;
+	    /*opacity: 0.1;*/
+	    text-align: center;
+}
