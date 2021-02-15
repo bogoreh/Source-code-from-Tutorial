@@ -1,0 +1,18 @@
+body {
+		color: green;
+    font-family: verdana, Arial, Geneva, Arial Black;
+	}
+
+	h1, h2 {
+		border: 1px solid black;
+	   }
+
+  		.blue {
+  			color: blue;
+  			font-size: 25px;
+  			font-family: Helvetica;
+  		  }
+
+  		  .underline {
+  			  text-decoration: underline;
+  		  }
