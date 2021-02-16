@@ -1,0 +1,34 @@
+body {
+		color: green;
+    font-family: verdana, Arial, Geneva, Arial Black;
+    font-weight: normal;
+    background-color: lime;
+    /*background-color: rgb(240,28,235);*/
+    background-color: #ffcf79;
+	}
+
+	h1, h2 {
+		text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: none;
+    text-decoration: underline overline;
+	   }
+
+  		p.para1 {
+  			color: blue;
+  			font-size: 25px;
+  		  }
+
+  	  p.para {
+        color: purple;
+        font-size: 25px;
+        }
+
+        p.para3 {
+        color: green;
+        font-size: 25px;
+        /*font-style: italic;*/
+        /*font-style: oblique;*/
+        font-style: italic;
+        }	  
